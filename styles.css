@@ -1,0 +1,119 @@
+
+/*.page_title {
+    margin-left: 150px;
+}*/
+.content {
+    max-width: 1250px;
+    margin: auto;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.content p {
+    margin-left: 0em;
+}
+
+section {
+    border: thin solid rgba(0, 0, 0, 0.199);
+    border-width: 1px;
+    width: 80%;
+    height: auto;
+    margin-bottom: 15px;
+
+}
+
+.colors {
+    
+    overflow: hidden;
+    
+}
+
+.colors p {
+    text-align: center;    
+    font-size: large;
+}
+
+section h2 {
+    margin-left: 10px;
+}
+section .blue_color {
+    width: 300px;
+    height: 100px;
+    background-color: #2d5dcc;
+    margin: 10px;
+    float: left;
+    color: white;
+}
+section .pink_color {
+    width: 300px;
+    height: 100px;
+    background-color: #d957d9;
+    margin: 10px;
+    float: left;
+
+}
+
+section .mint_green_color {
+    width: 300px;
+    height: 100px;
+    background-color: #4fe0b0;
+    margin: 10px;
+    float: left;
+
+}
+
+section .beige_color {
+    width: 300px;
+    height: 100px;
+    background-color: #efd9ca;
+    margin: 10px;
+    float: left;
+
+}
+
+.fonts h3 {
+    text-decoration: underline;
+    margin-left: 10px;
+    margin-top: 50px;
+    
+
+}
+
+.fonts div {
+    display: inline-block;
+}
+
+.source_code_pro {
+    margin-left: 10px;
+    font-family: "Source Code Pro";
+}
+
+.nunito_sans {
+    margin-left: 100px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.poppins {
+    margin-left: 10px;
+    font-family: "Poppins";
+}
+
+.bold_sentence {
+    font-weight: bold;
+}
+
+.italic_sentence {
+    font-style: italic;
+}
+
+.text_styles h1 {
+    margin-left: 10px;
+    font-size: 26px;
+}
+
+.text_styles h2 {
+    font-size: 18px;
+   
+}
+
+.text_styles p {
+    margin-left: 10px;
+}
